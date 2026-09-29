@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class threeSum
-{
+{ 
     public static void main (System args[])
     {
         Scanner input=new Scanner(System.in);
